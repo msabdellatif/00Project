@@ -1,1 +1,1 @@
-# 00Project
+# Vezeeto Project repo.
